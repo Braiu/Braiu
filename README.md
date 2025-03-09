@@ -2,9 +2,9 @@
 
 Meu nome é Bryan Duarte
 
-- Estou estudando na [Alura](https://alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou cursando **Ciencias da Computação**
+- Estou me desenvolvendo na **linguagem HTML, Python e CSS**
+- Utilizo esse espaço para minha organização e compartilhamento dos meus **projetos** desenvolvidos
 
 ## Para você entrar em contato comigo 📫
 
