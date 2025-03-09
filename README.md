@@ -13,4 +13,4 @@ bryanduarte3714@gmail.com
 @Braiu
 
 
-![]([https://media1.tenor.com/m/rlEJQKoIv7QAAAAd/cat-nori.gif](https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4lNhctzVnbDZYJrDXcDcLApY3fVNlln20BsyTiCyrcIU))
+![]([https://media1.tenor.com/m/rlEJQKoIv7QAAAAd/cat-nori.gif])
