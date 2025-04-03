@@ -5,7 +5,7 @@
 </div>
 
 Olá! Meu nome é Bryan Duarte!
-Cursando Ciência da Computação
+Estou cursando Ciências da Computação
 
 ### Estudando no momento:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
