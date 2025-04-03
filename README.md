@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#89CFF0&height=120&section=header"/>
+<imagem largura=100% fonte="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&seitaion=cabeçalho"/>
+
+</div>
+  <img align="right" alt="" height="180" style="border-radius:50px;" src="https://github.com/user-attachments/assets/d112f228-e0a0-49cd-ba9c-c42dd689c1e1">
+</div>
 
 ## Boas vindas 💙
 Meu nome é Bryan Duarte
