@@ -1,6 +1,6 @@
-## Boas vindas 💙
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#C8A2C8&height=120&section=header"/>
 
+## Boas vindas 💙
 Meu nome é Bryan Duarte
 
 - Estou cursando **Ciencias da Computação**
