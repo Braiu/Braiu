@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=120&section=header"/>
 
 </div>
-  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/NwNr2VViO97z2oxds6ygH2igCJD5DfIvgtExx_UhcOw/https/image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4lNhctzVnbDZYJrDXcDcLApY3fVNlln20BsyTiCyrcIU?format=webp">
 </div>
 
 ### Minhas Skills:
