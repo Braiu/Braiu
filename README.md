@@ -4,8 +4,8 @@
   <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/NwNr2VViO97z2oxds6ygH2igCJD5DfIvgtExx_UhcOw/https/image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4lNhctzVnbDZYJrDXcDcLApY3fVNlln20BsyTiCyrcIU?format=webp">
 </div>
 
-##Olá seja bem vindo!
-##Meu nome é Bryan Duarte
+Olá! Meu nome é Bryan Duarte!
+Cursando Ciência da Computação
 
 ### Estudando no momento:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
