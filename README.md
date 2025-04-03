@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=120&section=header"/>
 
 </div>
   <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
@@ -18,4 +18,4 @@
 <a href="https://www.linkedin.com/in/flavia-rosa-da-silveira-692410292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=120&section=footer"/>
